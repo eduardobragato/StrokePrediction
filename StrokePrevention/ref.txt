@@ -1,0 +1,38 @@
+1 - https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc
+
+2 - https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+3 - https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death
+
+4 - https://deathmeters.info/	
+
+5 - IHME_GBD_2021_MORTALITY_1990_2021_SR_APPENDIX_Y2024M04D03
+
+6 - boehme
+
+7 - Diabetes melitus
+
+8-  https://bvsms.saude.gov.br/bvs/dicas/215_obesidade.html
+
+9 - https://pt.wikipedia.org/wiki/Pirâmide_etária#/media/Ficheiro:Dtm_pyramids.png
+
+
+
+
+
+
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+https://www.kaggle.com/datasets/teamincribo/stroke-prediction
+
+	
+
+•	Idade (age): Numérico;
+•	Hipertensão (hypertension): Categórico booleano, convertido para 1 ou 0;
+•	Doenças Cardíacas (heart_disease): Categórico booleano, convertido para 1 ou 0;
+•	IMC (bmi): Numérico;
+•	Obesidade: Categórico booleano, convertido para 1 ou 0;
+•	Diabetes: Categórico booleano, convertido para 1 ou 0;
+•	Média Glicêmica (avg_glucose_level): Numérico;
+•	Condição de fumante (smoking_status): Categórico com duas opções, “fuma ou fumava” convertido para 1, e “nunca fumou” convertido para 0;
+•	Comorbidades: Numérico;
